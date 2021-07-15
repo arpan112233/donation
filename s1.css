@@ -1,0 +1,54 @@
+ #button01{
+    width:200px;
+    height:60px;
+    font-size:20px;
+    border:2px solid black;
+    border-radius: 5px;
+    background-color:rgb(189, 142, 142);
+  }
+   }
+  #h1{
+    padding-top: 200px;
+    text-align: center;
+    padding-left: 40px;
+  }
+  #h2{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    padding-left: 10px;
+    padding-right:5px ;
+  
+  }
+  #h3{
+    padding-top: 30px;
+    font-weight: bold;
+  
+  
+  }
+  .container{
+    text-align: center;
+    font-weight: bold;
+  }
+
+  #button01:hover{
+    background-color: lightcoral;
+    padding:10px;
+  
+  }
+  #button{
+    text-decoration: none;
+    color: #f2f2f2;
+  }
+  .suchuu_is_a_billu{
+  	padding-top: 30px;
+  	font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  	left: 50px;
+  }
+  .row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  padding: 5px;
+}
